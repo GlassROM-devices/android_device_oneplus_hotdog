@@ -11,6 +11,9 @@ DEVICE_PATH := device/oneplus/hotdog
 # Assert
 TARGET_OTA_ASSERT_DEVICE := OnePlus7TPro
 
+# Display
+TARGET_SCREEN_DENSITY := 560
+
 # Kernel
 TARGET_KERNEL_CONFIG := lineageos_oneplus7pro_defconfig
 
