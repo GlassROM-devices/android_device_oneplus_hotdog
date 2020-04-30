@@ -10,6 +10,7 @@ DEVICE_PATH := device/oneplus/hotdog
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := OnePlus7TPro
+TARGET_BOOTLOADER_BOARD_NAME := OnePlus7TPro
 
 # Display
 TARGET_SCREEN_DENSITY := 560
